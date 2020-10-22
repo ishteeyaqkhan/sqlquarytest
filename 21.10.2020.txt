@@ -1,0 +1,4 @@
+show databses;
+create databases;
+select * from table;
+decribe table;
